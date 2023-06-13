@@ -16,5 +16,5 @@ Building a decision tree model
 Tuning hyperparameters using GridSearchCV
 Evaluating a decision tree model using a confusion matrix and various other plots
 
-#### The dataset used for the project has been made available in CSV format as well.
+#### This project was performed as a part of Google advanced data analysis program. The dataset used for the project has been made available in CSV format as well.
 
